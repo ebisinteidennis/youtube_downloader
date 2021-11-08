@@ -1,0 +1,24 @@
+CONTRIBUTE TO asklist a todolist App Developed by Dennis Ebisintei
+
+
+i am making my project open source. I want Developers and anybody with the knowledge of programming to contribute to it.
+
+The Purpose of the website is a Todo list App keep a track of activities of all work to be done and help people organise their activities for better productivity. 
+
+Even if you are a not a programmer i want your opinion. The reason i am doing this is because i want to build the project based on public opinion. So any suggestions you make will be considered. 
+
+Anybody who makes a contribution will be duly recognised. So lets get the ideas poring out. The source code is publicly available in my github repository, you can make a pull request and fork the project the way you want.
+
+for The non programmers who what to make  a contribution i want you to fill the google form below, with a clear discription of your idea or suggestion to the project.
+
+Create Google form to accept response.
+
+RULES FOR CONTRIBUTING TO THE PROJECT
+1. The idea should be easy to implement.
+2. The idea or feature should contribute to economic Development
+3. The idea or feature should have security in mind.
+4. The programming languages Accepted are html, css, javascript, or bootstrap for the front. Django and flask for the backend. 
+5. The project will for now support only web based versions.
+
+ALSO FOLLOW MY GITHUB PROFILE FORK MY PROJECTS
+

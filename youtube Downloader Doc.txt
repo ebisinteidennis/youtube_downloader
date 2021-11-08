@@ -1,0 +1,42 @@
+git init
+git add 
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/prrat/youtube_downloader.git
+git push -u origin main
+
+
+heroku upload::
+1.heroku git:remote -a asklist
+2. pip install gunicorn whitenoise 
+3. pip freeze > requirements.txt
+4. runtime.txt - python-3.8.1
+5.Procfile *note: donot link .txt to it*
+	web: gunicorn todo_list.wsgi --log-file -
+
+6.ALLOWED_HOSTS = ['127.0.0.1`, 'asklist.herokuapp.com']
+7. whitenoise.middleware.Whit eNoiseMiddleware
+
+Disable and Enable Static files in heroku
+Note: Static files include img, js, css, not html
+
+$heroku config:set DISABLE_COLLECTSTATIC=1 = disable
+$heroku config:set COLLECTSTATIC=1 = enable
+
+google Adsense Added to site.
+
+
+#program to send enmail added to asklist. 26 oct 2021
+#starting files
+1. Basic Django project set up
+2. One Template with form
+3. One view
+
+Step 1:
+#Goto zoho.com and get smtp setup
+#Outgoing server name: smtp.zoho.com
+#Port: 587
+
+
+Step 2:
+#Settings.py
